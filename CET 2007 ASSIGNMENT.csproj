@@ -43,8 +43,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="LoginAttempt.cs" />
-    <Compile Include="Program.cs" />
+    <Compile Include="..\..\..\OneDrive - University of Sunderland - LIVE\CET 2007 ASSIGNMENT\LoginAttempt.cs">
+      <Link>LoginAttempt.cs</Link>
+    </Compile>
+    <Compile Include="..\..\..\OneDrive - University of Sunderland - LIVE\CET 2007 ASSIGNMENT\Program.cs">
+      <Link>Program.cs</Link>
+    </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
