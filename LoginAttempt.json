@@ -1,0 +1,32 @@
+﻿[
+  {
+    "Username": "Sarah",
+    "IPAddress": "192.168.1.10",
+    "Timestamp": "2026-11-01T09:00:00",
+    "IsSuccessful": true
+  },
+  {
+    "Username": "Bryan",
+    "IPAddress": "192.167.1.10",
+    "Timestamp": "2026-11-01T09:05:00",
+    "IsSuccessful": false
+  },
+  {
+    "Username": "Bryan",
+    "IPAddress": "192.167.1.10",
+    "Timestamp": "2026-11-01T09:07:00",
+    "IsSuccessful": false
+  },
+  {
+    "Username": "Bryan",
+    "IPAddress": "192.167.1.10",
+    "Timestamp": "2026-11-01T09:09:00",
+    "IsSuccessful": false
+  },
+  {
+    "Username": "Bryan",
+    "IPAddress": "192.167.1.10",
+    "Timestamp": "2026-11-01T09:11:00",
+    "IsSuccessful": true
+  }
+]

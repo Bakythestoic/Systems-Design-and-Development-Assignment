@@ -49,10 +49,17 @@
     <Compile Include="..\..\..\OneDrive - University of Sunderland - LIVE\CET 2007 ASSIGNMENT\Program.cs">
       <Link>Program.cs</Link>
     </Compile>
+    <Compile Include="..\..\..\OneDrive - University of Sunderland - LIVE\CET 2007 ASSIGNMENT\LoginDataManager.cs">
+      <Link>LoginDataManager.cs</Link>
+    </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+    <None Include="..\..\..\OneDrive - University of Sunderland - LIVE\CET 2007 ASSIGNMENT\LoginAttempt.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <Link>LoginAttempt.json</Link>
+    </None>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
