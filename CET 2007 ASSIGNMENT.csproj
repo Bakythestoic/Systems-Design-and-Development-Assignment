@@ -56,10 +56,10 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
-    <None Include="..\..\..\OneDrive - University of Sunderland - LIVE\CET 2007 ASSIGNMENT\LoginAttempt.json">
+    <None Include="LoginAttempt.json">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-      <Link>LoginAttempt.json</Link>
     </None>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <ProjectExtensions />
 </Project>
