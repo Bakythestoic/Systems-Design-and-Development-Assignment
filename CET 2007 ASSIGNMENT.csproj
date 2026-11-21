@@ -83,8 +83,16 @@
     <Compile Include="..\..\..\OneDrive - University of Sunderland - LIVE\CET 2007 ASSIGNMENT\LoginDataManager.cs">
       <Link>LoginDataManager.cs</Link>
     </Compile>
+    <Compile Include="AlertType.cs" />
+    <Compile Include="FailedLoginAlert.cs" />
+    <Compile Include="IAlert.cs" />
+    <Compile Include="ILoginDetectionStrategy.cs" />
+    <Compile Include="ISecurityAlertObserver.cs" />
     <Compile Include="LoginSecurityAnalyzer.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SecurityAlert.cs" />
+    <Compile Include="SecurityAlertFactory.cs" />
+    <Compile Include="SecurityAlertLogger.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

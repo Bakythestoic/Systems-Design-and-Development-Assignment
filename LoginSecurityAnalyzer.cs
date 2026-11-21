@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace CET_2007_ASSIGNMENT
 {
-    internal class LoginSecurityAnalyzer
+    public class LoginSecurityAnalyzer
     {
         public List<string> DetectMultipleFailedLogins(List<LoginAttempt> attempts)
         {
