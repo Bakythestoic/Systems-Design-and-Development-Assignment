@@ -75,14 +75,8 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="LoginAttempt.cs">
-      <Link>LoginAttempt.cs</Link>
-    </Compile>
     <Compile Include="Program.cs">
-      <Link>Program.cs</Link>
-    </Compile>
     <Compile Include="LoginDataManager.cs">
-      <Link>LoginDataManager.cs</Link>
-    </Compile>
     <Compile Include="AlertType.cs" />
     <Compile Include="FailedLoginAlert.cs" />
     <Compile Include="IAlert.cs" />
