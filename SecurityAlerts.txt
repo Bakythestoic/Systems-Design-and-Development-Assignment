@@ -1,0 +1,164 @@
+Security Alert:Jordan has experienced multiple failed login attempts.
+Security Alert:Jordan has experienced multiple failed login attempts.
+Security Alert:Sarah has experienced multiple failed login attempts.
+Security Alert:Bryan has experienced multiple failed login attempts.
+Security Alert:Emily has experienced multiple failed login attempts.
+Security Alert:Taylor has experienced multiple failed login attempts.
+Security Alert:Morgan has experienced multiple failed login attempts.
+Security Alert:Jordan has experienced multiple failed login attempts.
+Security Alert:Sarah has experienced multiple failed login attempts.
+Security Alert:Bryan has experienced multiple failed login attempts.
+Security Alert:Emily has experienced multiple failed login attempts.
+Security Alert:Taylor has experienced multiple failed login attempts.
+Security Alert:Morgan has experienced multiple failed login attempts.
+Security Alert:Bryan successfully logged in after multiple failed attempts
+Security Alert:Emily successfully logged in after multiple failed attempts
+Security Alert:Taylor successfully logged in after multiple failed attempts
+Security Alert:Morgan successfully logged in after multiple failed attempts
+Security Alert:Sarah has experienced multiple failed login attempts.
+Security Alert:Bryan has experienced multiple failed login attempts.
+Security Alert:Emily has experienced multiple failed login attempts.
+Security Alert:Taylor has experienced multiple failed login attempts.
+Security Alert:Morgan has experienced multiple failed login attempts.
+Security Alert:Bryan successfully logged in after multiple failed attempts
+Security Alert:Emily successfully logged in after multiple failed attempts
+Security Alert:Taylor successfully logged in after multiple failed attempts
+Security Alert:Morgan successfully logged in after multiple failed attempts
+Security Alert:Excessive login attempts detected from IP address 192.168.1.50
+Security Alert:Excessive login attempts detected from IP address 192.168.1.80
+Security Alert:Sarah
+ has experienced multiple failed login attempts.
+Security Alert:Bryan
+ has experienced multiple failed login attempts.
+Security Alert:Emily
+ has experienced multiple failed login attempts.
+Security Alert:Taylor
+ has experienced multiple failed login attempts.
+Security Alert:Morgan
+ has experienced multiple failed login attempts.
+Security Alert:Bryan
+ successfully logged in after multiple failed attempts
+Security Alert:Emily
+ successfully logged in after multiple failed attempts
+Security Alert:Taylor
+ successfully logged in after multiple failed attempts
+Security Alert:Morgan
+ successfully logged in after multiple failed attempts
+Security Alert:Excessive login attempts detected from IP address 192.168.1.50
+
+Security Alert:Excessive login attempts detected from IP address 192.168.1.80
+
+Security Alert:Sarah
+ has experienced multiple failed login attempts.
+Security Alert:Bryan
+ has experienced multiple failed login attempts.
+Security Alert:Emily
+ has experienced multiple failed login attempts.
+Security Alert:Taylor
+ has experienced multiple failed login attempts.
+Security Alert:Morgan
+ has experienced multiple failed login attempts.
+Security Alert:Bryan successfully logged in after multiple failed attempts
+Security Alert:Emily successfully logged in after multiple failed attempts
+Security Alert:Taylor successfully logged in after multiple failed attempts
+Security Alert:Morgan successfully logged in after multiple failed attempts
+Security Alert:Excessive login attempts detected from IP address 192.168.1.50
+
+Security Alert:Excessive login attempts detected from IP address 192.168.1.80
+
+Security Alert:Sarah
+ has experienced multiple failed login attempts.
+Security Alert:Bryan
+ has experienced multiple failed login attempts.
+Security Alert:Emily
+ has experienced multiple failed login attempts.
+Security Alert:Taylor
+ has experienced multiple failed login attempts.
+Security Alert:Morgan
+ has experienced multiple failed login attempts.
+Security Alert:Bryan successfully logged in after multiple failed attempts
+Security Alert:Emily successfully logged in after multiple failed attempts
+Security Alert:Taylor successfully logged in after multiple failed attempts
+Security Alert:Morgan successfully logged in after multiple failed attempts
+Security Alert:Excessive login attempts detected from IP address 192.168.1.50
+
+Security Alert:Excessive login attempts detected from IP address 192.168.1.80
+
+Security Alert:Sarah has experienced multiple failed login attempts.
+Security Alert:Bryan has experienced multiple failed login attempts.
+Security Alert:Emily has experienced multiple failed login attempts.
+Security Alert:Taylor has experienced multiple failed login attempts.
+Security Alert:Morgan has experienced multiple failed login attempts.
+Security Alert:Bryan successfully logged in after multiple failed attempts
+Security Alert:Emily successfully logged in after multiple failed attempts
+Security Alert:Taylor successfully logged in after multiple failed attempts
+Security Alert:Morgan successfully logged in after multiple failed attempts
+Security Alert:Excessive login attempts detected from IP address 192.168.1.50
+
+Security Alert:Excessive login attempts detected from IP address 192.168.1.80
+
+Security Alert:Sarah has experienced multiple failed login attempts.
+Security Alert:Bryan has experienced multiple failed login attempts.
+Security Alert:Emily has experienced multiple failed login attempts.
+Security Alert:Taylor has experienced multiple failed login attempts.
+Security Alert:Morgan has experienced multiple failed login attempts.
+Security Alert:Bryan successfully logged in after multiple failed attempts
+Security Alert:Emily successfully logged in after multiple failed attempts
+Security Alert:Taylor successfully logged in after multiple failed attempts
+Security Alert:Morgan successfully logged in after multiple failed attempts
+Security Alert:Excessive login attempts detected from IP address 192.168.1.50
+
+Security Alert:Excessive login attempts detected from IP address 192.168.1.80
+
+Security Alert:Sarah has experienced multiple failed login attempts.
+Security Alert:Bryan has experienced multiple failed login attempts.
+Security Alert:Emily has experienced multiple failed login attempts.
+Security Alert:Taylor has experienced multiple failed login attempts.
+Security Alert:Morgan has experienced multiple failed login attempts.
+Security Alert:Bryan successfully logged in after multiple failed attempts
+Security Alert:Emily successfully logged in after multiple failed attempts
+Security Alert:Taylor successfully logged in after multiple failed attempts
+Security Alert:Morgan successfully logged in after multiple failed attempts
+Security Alert:Excessive login attempts detected from IP address 192.168.1.50
+
+Security Alert:Excessive login attempts detected from IP address 192.168.1.80
+
+Security Alert:Sarah has experienced multiple failed login attempts.
+Security Alert:Bryan has experienced multiple failed login attempts.
+Security Alert:Emily has experienced multiple failed login attempts.
+Security Alert:Taylor has experienced multiple failed login attempts.
+Security Alert:Morgan has experienced multiple failed login attempts.
+Security Alert:Bryan successfully logged in after multiple failed attempts
+Security Alert:Emily successfully logged in after multiple failed attempts
+Security Alert:Taylor successfully logged in after multiple failed attempts
+Security Alert:Morgan successfully logged in after multiple failed attempts
+Security Alert:Excessive login attempts detected from IP address 192.168.1.50
+
+Security Alert:Excessive login attempts detected from IP address 192.168.1.80
+
+Security Alert:Sarah has experienced multiple failed login attempts.
+Security Alert:Bryan has experienced multiple failed login attempts.
+Security Alert:Emily has experienced multiple failed login attempts.
+Security Alert:Taylor has experienced multiple failed login attempts.
+Security Alert:Morgan has experienced multiple failed login attempts.
+Security Alert:Bryan successfully logged in after multiple failed attempts
+Security Alert:Emily successfully logged in after multiple failed attempts
+Security Alert:Taylor successfully logged in after multiple failed attempts
+Security Alert:Morgan successfully logged in after multiple failed attempts
+Security Alert:Excessive login attempts detected from IP address 192.168.1.50
+
+Security Alert:Excessive login attempts detected from IP address 192.168.1.80
+
+Security Alert:Sarah has experienced multiple failed login attempts.
+Security Alert:Bryan has experienced multiple failed login attempts.
+Security Alert:Emily has experienced multiple failed login attempts.
+Security Alert:Taylor has experienced multiple failed login attempts.
+Security Alert:Morgan has experienced multiple failed login attempts.
+Security Alert:Bryan successfully logged in after multiple failed attempts
+Security Alert:Emily successfully logged in after multiple failed attempts
+Security Alert:Taylor successfully logged in after multiple failed attempts
+Security Alert:Morgan successfully logged in after multiple failed attempts
+Security Alert:Excessive login attempts detected from IP address 192.168.1.50
+
+Security Alert:Excessive login attempts detected from IP address 192.168.1.80
+
